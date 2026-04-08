@@ -21,4 +21,4 @@ export const PRODUCT_NAME = "App Keto Carnívora: 80+ Receitas Airfryer";
 export const HEADLINE = "Transforme Sua Dieta Carnívora com a Praticidade da Air Fryer";
 export const SUBHEADLINE = "Descubra mais de 80 receitas suculentas, crocantes e 100% dentro da dieta, prontas em minutos e sem sujeira.";
 export const PRICE_ORIGINAL = "R$ 97,00";
-export const PRICE_DISCOUNT = "R$ 39,90";
+export const PRICE_DISCOUNT = "R$ 19,90";
